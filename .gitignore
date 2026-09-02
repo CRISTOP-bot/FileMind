@@ -1,0 +1,7 @@
+build/
+build-asan/
+FileMind/.gradle/
+FileMind/build/
+FileMind/app/build/
+FileMind/app/src/main/assets/*.mai3
+*.ckpt
